@@ -37,6 +37,15 @@ Data sent by the services above is encrypted in transit.
 
 You can stop all collection by uninstalling the game. For data held by Google, RevenueCat or Wiredash, use the links above. For questions or deletion requests, contact us.
 
+## Deleting your data
+
+Robot War: Merge Defense, by Roshan Gunarathna. To ask us to delete data:
+1. Email <roshanrnofficial@gmail.com> with the subject "Robot War data deletion".
+2. If you sent feedback, include the email address you gave in the form or the date you sent it, so we can find your reports.
+3. We delete your feedback reports (message, screenshots, email address, device details) and the matching Wiredash installation data within 30 days and confirm by email. We keep nothing else about you.
+
+Your game progress is stored only on your device: uninstalling the game or clearing its storage deletes it. Advertising data is held by Google; reset or delete your advertising ID in your device settings. Purchase records are kept by Google Play and RevenueCat as required for your purchases and refunds.
+
 ## Changes
 
 We may update this policy. The new version will be posted at this address with a new date.
