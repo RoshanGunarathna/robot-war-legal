@@ -1,5 +1,5 @@
 ---
-title: Robot War: Merge Defense — Privacy Policy
+title: "Robot War: Merge Defense — Privacy Policy"
 ---
 
 
